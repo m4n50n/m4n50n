@@ -1,4 +1,4 @@
-## Hi, I'm <a href="https://www.linkedin.com/in/josegarciarodriguez/" target="_blank">Jose</a>!
+## Hi, I'm <a href="https://www.linkedin.com/in/josegarciarodriguez/" target="_blank">Jose</a>! 🔥
 
 <!--
 <br>
