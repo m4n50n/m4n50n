@@ -2,7 +2,7 @@
 
 <br>
 
-▂Web Developer in process at <strong><a href="https://github.com/4GeeksAcademy" target="_blank">4Geeks Academy</a></strong>  
+▂Improving my skills at <strong><a href="https://github.com/4GeeksAcademy" target="_blank">4Geeks Academy</a></strong>  
 
 <br>
 
