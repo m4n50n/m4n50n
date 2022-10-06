@@ -7,7 +7,10 @@
   </a>
     <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/css3.svg" alt="CSS3 Badge" style="vertical-align:top margin:6px 4px">
-  </a>
+  </a>  
+    <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/sass.svg" alt="SASS Badge" style="vertical-align:top margin:6px 4px">
+  </a>  
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap Badge" style="vertical-align:top margin:6px 4px">
   </a> 
@@ -22,13 +25,13 @@
   </a> 
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/angular.svg" alt="Angular Badge" style="vertical-align:top margin:6px 4px">
-  </a><hr>
+  </a><br>
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/python.svg" alt="Python Badge" style="vertical-align:top margin:6px 4px">
   </a>  
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/php.svg" alt="PHP Badge" style="vertical-align:top margin:6px 4px">
-  </a> <hr> 
+  </a> <br> 
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio_code.svg" alt="VisualStudioCode Badge" style="vertical-align:top margin:7px 4px">
   </a>   
