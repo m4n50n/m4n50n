@@ -1,4 +1,4 @@
-## Hi, I'm Jose</a>! 🔥
+## Hi</a>! 🔥
 <br>
 <div align="center">
   
