@@ -1,5 +1,3 @@
-<h3 align = "center"> Jose Clemente García Rodríguez</h3>
-
 [LinkedIn](https://www.linkedin.com/in/josegarciarodriguez) | [Website](https://personal-jgarcia.vercel.app)
 
 > **Málaga, Madrid** | Sysadmin / Full Stack Developer
