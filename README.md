@@ -8,7 +8,7 @@
 - 💻 Actualmente trabajo como desarrollador web full stack en las áreas de frontend y backend
 - 🎯 Mi objetivoo es el desarrollo de proyectos adaptados, robustos, seguros, dinámicos y escalables, así como procesos de automatización complementarios.
 
-#### ▪ Frontend
+#### Frontend
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -20,14 +20,14 @@
 ![Redux](https://img.shields.io/badge/NgRx%20/%20Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-e0002a?style=for-the-badge)
 
-#### ▪ Backend
+#### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-9f00c5?style=for-the-badge&logo=symfony&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-366c9a?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-d88700?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### ▪ Otras tecnologías
+#### Otras tecnologías
 ![WordPress](https://img.shields.io/badge/WordPress-2c90b2?style=for-the-badge&logo=wordpress&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-2e7db3?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-e84e31?style=for-the-badge&logo=git&logoColor=white)
