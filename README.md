@@ -36,10 +36,9 @@
 #### Artículos DEV
 - <a href="https://medium.com/@joseclementegarciarodriguez/dominando-el-data-binding-en-angular-3c2556524111" target="_blank">Angular Data Binding — ¿Qué es?</a> (_Medium_)
 
-<div align="center">
-<a href="https://github.com/m4n50n/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=m4n50n&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="m4n50n GitHub Stats" /></a><a href="https://github.com/m4n50n/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n50n&layout=compact&theme=transparent&hide_border=true" /></a>
-</div>
+### 📈 Github Stats
 
-<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4n50n&layout=compact&text_color=daf7dc&bg_color=151515)
+![Stats](https://github-readme-stats.vercel.app/api?username=m4n50n&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=daf7dc&bg_color=151515)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jose_Clemente_García_Rodríguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/josegarciarodriguez/)](https://www.linkedin.com/in/josegarciarodriguez/) 
