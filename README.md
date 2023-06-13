@@ -22,7 +22,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-9f00c5?style=for-the-badge&logo=symfony&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-366c9a?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1b6d74?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-d88700?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Otras tecnologías
