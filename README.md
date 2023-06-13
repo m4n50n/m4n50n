@@ -29,6 +29,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-d88700?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### ▪ Otras tecnologías
+![WordPress](https://img.shields.io/badge/WordPress-2c90b2?style=for-the-badge&logo=wordpress&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-2e7db3?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-e84e31?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
