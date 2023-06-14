@@ -36,7 +36,7 @@
 #### Artículos DEV
 - <a href="https://medium.com/@joseclementegarciarodriguez/dominando-el-data-binding-en-angular-3c2556524111" target="_blank">Angular Data Binding — ¿Qué es?</a> (_Medium_)
 
-### 📈 Github Stats
+#### 📈 Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4n50n&layout=compact&text_color=daf7dc&bg_color=151515&hide_title=true&disable_animations=true)
 ![Stats](https://github-readme-stats.vercel.app/api?username=m4n50n&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=daf7dc&bg_color=151515&hide_title=true&disable_animations=true)
