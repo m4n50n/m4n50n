@@ -42,4 +42,4 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=m4n50n&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=daf7dc&bg_color=151515)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jose_Clemente_García_Rodríguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/josegarciarodriguez/)](https://www.linkedin.com/in/josegarciarodriguez/) 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=m4n50n.m4n50n)
+ ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=m4n50n.m4n50n)
