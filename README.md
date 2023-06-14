@@ -1,6 +1,6 @@
 [LinkedIn](https://www.linkedin.com/in/josegarciarodriguez) | [Website](https://personal-jgarcia.vercel.app)
 
-> **Málaga, Madrid** | Sysadmin / Full Stack Developer
+> **Sysadmin / Full Stack Developer** | Málaga, Madrid
 
 - ⚙ Administrador de redes, sistemas y soporte técnico.
 - 💻 Actualmente trabajo como desarrollador web full stack en las áreas de frontend y backend.
