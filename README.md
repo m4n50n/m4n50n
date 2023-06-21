@@ -21,6 +21,7 @@
 #### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-9f00c5?style=for-the-badge&logo=symfony&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-f17d36?style=for-the-badge&logo=doctrine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-366c9a?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-1b6d74?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Firebird%20/%20PostgreSQL%20/%20MySQL%20/%20SQLServer-d88700?style=for-the-badge)
