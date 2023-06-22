@@ -15,6 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-2f72bc?style=for-the-badge&logo=typescript&logoColor=61DAFB)
 ![jQuery](https://img.shields.io/badge/Jquery-1064a5?style=for-the-badge&logo=jquery&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-d2002f?style=for-the-badge&logo=angular&logoColor=white)
+![RxJs](https://img.shields.io/badge/RxJs-a0147b?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Redux](https://img.shields.io/badge/NgRx%20/%20Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-e0002a?style=for-the-badge)
 
@@ -24,7 +25,8 @@
 ![Doctrine](https://img.shields.io/badge/Doctrine-f17d36?style=for-the-badge&logo=doctrine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-366c9a?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-1b6d74?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/Firebird%20/%20PostgreSQL%20/%20MySQL%20/%20SQLServer-d88700?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/Firebird%20/%20PostgreSQL%20/%20MySQL%20/%20SQLServer-d88700?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Otras tecnologías
 ![WordPress](https://img.shields.io/badge/WordPress-2c90b2?style=for-the-badge&logo=wordpress&logoColor=white)
