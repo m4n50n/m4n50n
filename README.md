@@ -6,7 +6,7 @@
 - 💻 Actualmente trabajo como desarrollador web en las áreas de frontend y backend.
 - 🎯 Mi objetivo es el desarrollo de proyectos adaptados, robustos, seguros, dinámicos y escalables, así como procesos de automatización complementarios.
 
-#### Frontend
+### Frontend
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -19,7 +19,7 @@
 ![Redux](https://img.shields.io/badge/NgRx%20/%20Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-e0002a?style=for-the-badge)
 
-#### Backend
+### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-9f00c5?style=for-the-badge&logo=symfony&logoColor=white)
 ![Doctrine](https://img.shields.io/badge/Doctrine-f17d36?style=for-the-badge&logo=doctrine&logoColor=white)
@@ -28,7 +28,7 @@
 ![MySQL](https://img.shields.io/badge/Firebird%20/%20PostgreSQL%20/%20MySQL%20/%20SQLServer-d88700?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-#### Otras tecnologías
+### Otras tecnologías
 ![WordPress](https://img.shields.io/badge/WordPress-2c90b2?style=for-the-badge&logo=wordpress&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-2e7db3?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-e84e31?style=for-the-badge&logo=git&logoColor=white)
@@ -36,10 +36,10 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-e57100?style=for-the-badge&logo=proxmox&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-90a0aa?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-#### Artículos DEV
+### Artículos DEV
 - <a href="https://medium.com/@joseclementegarciarodriguez/dominando-el-data-binding-en-angular-3c2556524111" target="_blank">Angular Data Binding — ¿Qué es?</a> (_Medium_)
 
-#### 📈 Github Stats
+### 📈 Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4n50n&layout=compact&text_color=daf7dc&bg_color=151515&hide_title=true&disable_animations=true)
 ![Stats](https://github-readme-stats.vercel.app/api?username=m4n50n&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=daf7dc&bg_color=151515&hide_title=true&disable_animations=true)
