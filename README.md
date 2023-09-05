@@ -2,7 +2,7 @@
 
 > **Sysadmin / Full Stack Developer** | Málaga, Madrid
 
-- ⚙ Administrador de redes, sistemas y soporte técnico.
+- ⚙ Comencé en el sector como administrador de redes, sistemas y soporte técnico.
 - 💻 Actualmente trabajo como desarrollador web en las áreas de frontend y backend.
 - 🎯 Mi objetivo es el desarrollo de proyectos adaptados, robustos, seguros, dinámicos y escalables, así como procesos de automatización complementarios.
 
