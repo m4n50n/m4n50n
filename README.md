@@ -2,7 +2,7 @@
 
 > **Full Stack Developer / SysAdmin** | Málaga, Madrid
 
-- 💻 Actualmente trabajo como desarrollador web en las áreas de frontend y backend.
+- 💻 Desarrollador web en las áreas de frontend y backend.
 - 🎯 Mi objetivo es el desarrollo de proyectos adaptados, robustos, seguros, dinámicos y escalables, así como procesos de automatización complementarios.
 - ⚙ Administrador de redes, sistemas y soporte técnico.
 
