@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/josegarciarodriguez) | [Website personal](https://personal-jgarcia.vercel.app) | <a href="mailto:josegarciarodriguez89@hotmail.com">Contáctame por email</a>
+[LinkedIn](https://www.linkedin.com/in/josegarciarodriguez) | [Website personal](https://personal-jgarcia.vercel.app) | <a href="mailto:josegarciarodriguez89@hotmail.com">Contacto</a>
 
 > **Full Stack Developer / SysAdmin** | Málaga, Madrid
 
