@@ -4,7 +4,7 @@
 
 - 💻 Desarrollador web en las áreas de frontend y backend.
 - 🎯 Mi objetivo es el desarrollo de proyectos adaptados, robustos, seguros, dinámicos y escalables, así como procesos de automatización complementarios.
-- ⚙ Administrador de redes, sistemas y soporte técnico.
+- ⚙ Administrador de sistemas informáticos en red.
 
 ### Frontend
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
