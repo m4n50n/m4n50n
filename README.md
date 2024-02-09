@@ -40,6 +40,9 @@
 ### Proyectos personales
 - <a href="https://www.phpcodetester.com" target="_blank">PHPCodeTester</a>
 
+### Packagist
+- <a href="https://packagist.org/packages/m4n50n/telegram-bot-bundle" target="_blank">Telegram-bot-bundle</a> - Provides a wrapper for using longman/telegram-bot within Symfony
+
 ### Artículos DEV
 - <a href="https://medium.com/@joseclementegarciarodriguez/dominando-el-data-binding-en-angular-3c2556524111" target="_blank">Angular Data Binding — ¿Qué es?</a> (_Medium_)
 - <a href="https://medium.com/@joseclementegarciarodriguez/interoperabilidad-entre-los-modelos-de-angular-y-las-entidades-de-symfony-para-la-gestión-de-datos-b65aa04258ad" target="_blank">Interoperabilidad entre los modelos de Angular y las entidades de Symfony para la gestión de datos</a> (_Medium_)
