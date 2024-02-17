@@ -42,6 +42,7 @@
 
 ### Packagist
 - <a href="https://packagist.org/packages/m4n50n/telegram-bot-bundle" target="_blank">Telegram-bot-bundle</a> - Provides a wrapper for using longman/telegram-bot within Symfony
+- <a href="https://packagist.org/packages/m4n50n/oauth2-azure-bundle" target="_blank">OAuth2-Azure-Bundle</a> - Provides a tiny wrapper for using thenetworg/oauth2-azure inside Symfony
 
 ### Artículos DEV
 - <a href="https://medium.com/@joseclementegarciarodriguez/dominando-el-data-binding-en-angular-3c2556524111" target="_blank">Angular Data Binding — ¿Qué es?</a> (_Medium_)
