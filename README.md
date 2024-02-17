@@ -41,7 +41,7 @@
 - <a href="https://www.phpcodetester.com" target="_blank">PHPCodeTester</a>
 
 ### Packagist
-- <a href="https://packagist.org/packages/m4n50n/telegram-bot-bundle" target="_blank">Telegram-bot-bundle</a> - Provides a wrapper for using longman/telegram-bot within Symfony
+- <a href="https://packagist.org/packages/m4n50n/telegram-bot-bundle" target="_blank">Telegram-Bot-Bundle</a> - Provides a wrapper for using longman/telegram-bot within Symfony
 - <a href="https://packagist.org/packages/m4n50n/oauth2-azure-bundle" target="_blank">OAuth2-Azure-Bundle</a> - Provides a tiny wrapper for using thenetworg/oauth2-azure inside Symfony
 
 ### Artículos DEV
