@@ -1,6 +1,6 @@
 [LinkedIn](https://www.linkedin.com/in/josegarciarodriguez) | [Website personal](https://personal-jgarcia.vercel.app) | <a href="mailto:josegarciarodriguez89@hotmail.com">Contacto</a>
 
-> **Full Stack Developer / SysAdmin** | Málaga, Madrid
+> **Full Stack Developer / SysAdmin** | Málaga / Madrid
 
 - 💻 Desarrollador web en las áreas de frontend y backend.
 - 🎯 Desarrollo proyectos adaptados, robustos, seguros, dinámicos y escalables.
