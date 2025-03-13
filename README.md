@@ -57,5 +57,3 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jose_Clemente_García_Rodríguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/josegarciarodriguez/)](https://www.linkedin.com/in/josegarciarodriguez/) 
  ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=m4n50n.m4n50n)
-
-<a href="https://www.buymeacoffee.com/m4n50n" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: auto !important;" ></a>
